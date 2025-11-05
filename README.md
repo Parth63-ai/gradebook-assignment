@@ -49,9 +49,9 @@ Welcome to the GradeBook Analyzer
 Choose an option (1-3): 1
 
 Enter student name (or 'done' to finish): Parth
-Enter marks for Alice: 95
+Enter marks for Parth: 95
 Enter student name (or 'done' to finish): Prabhat
-Enter marks for Bob: 80
+Enter marks for Prabhat: 80
 Enter student name (or 'done' to finish): Aayan
 Enter marks for Aayan:50
 Enter student name (or 'done' to finish): Ishant
