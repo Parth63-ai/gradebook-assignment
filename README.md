@@ -16,8 +16,8 @@ Objectives
 ------------------------------------------------------------------------------------------------------------------------------------------
 Features
 
-✅ Manual data entry or CSV import
-✅ Calculates:
+ Manual data entry or CSV import
+ Calculates:
 
 Average
 
@@ -25,11 +25,11 @@ Median
 
 Highest & Lowest score
 
-✅ Assigns grades (A–F)
-✅ Shows grade distribution
-✅ Filters pass/fail students
-✅ Displays results in tabular format
-✅ Simple text-based menu for repeated analysis
+ Assigns grades (A–F)
+ Shows grade distribution
+ Filters pass/fail students
+ Displays results in tabular format
+ Simple text-based menu for repeated analysis
 ------------------------------------------------------------------------------------------------------------------------------------------
 🧩 Tech Stack
 
