@@ -44,6 +44,7 @@ csv (for reading CSV files)
 statistics (for mean/median calculations)
 
 📊 Example Output
+```
 Welcome to the GradeBook Analyzer
 1. Enter student data manually
 2. Upload a CSV file
@@ -92,7 +93,7 @@ Ishant
 
 Do you want to check again?(yes/no): no
 Exiting the program.Goodbye!
-
+```
 🧠 Learning Outcome
 
 Through this project, I practiced:
