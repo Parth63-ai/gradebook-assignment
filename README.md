@@ -15,7 +15,7 @@ Objectives
 
 4)Generate clear analytical summaries and visual-grade distribution.
 
-------------------------------------------------------------------------------------------------------------------------------------------
+
 Features
 
  Manual data entry or CSV import
@@ -32,7 +32,7 @@ Highest & Lowest score
  Filters pass/fail students
  Displays results in tabular format
  Simple text-based menu for repeated analysis
-------------------------------------------------------------------------------------------------------------------------------------------
+
 🧩 Tech Stack
 
 Language: Python 
@@ -42,7 +42,7 @@ Libraries Used:
 csv (for reading CSV files)
 
 statistics (for mean/median calculations)
------------------------------------------------------------------------------------------------------------------------------------------
+
 📊 Example Output
 Welcome to the GradeBook Analyzer
 1. Enter student data manually
@@ -92,7 +92,7 @@ Ishant
 
 Do you want to check again?(yes/no): no
 Exiting the program.Goodbye!
-------------------------------------------------------------------------------------------------------------------------------------------
+
 🧠 Learning Outcome
 
 Through this project, I practiced:
