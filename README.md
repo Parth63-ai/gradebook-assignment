@@ -1,11 +1,11 @@
-Project Overview
+📘Project Overview
 
 The GradeBook Analyzer is a Python-based CLI tool that automates the process of analyzing and reporting student grades.
 It allows users (teachers or administrators) to input student marks manually or upload them from a CSV file.
 The program then computes statistical summaries, assigns grades, identifies pass/fail students, and displays a formatted results table.
 
 
-Objectives
+🎯Objectives
 
 1)Automate grade processing using Python.
 
@@ -16,7 +16,7 @@ Objectives
 4)Generate clear analytical summaries and visual-grade distribution.
 
 
-Features
+⚙️Features
 
  Manual data entry or CSV import
  Calculates:
